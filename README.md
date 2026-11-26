@@ -5,7 +5,7 @@ estados Recibido, En Medición, Alerta o Normal comparando el dato medido con el
 (LAN01, LAN02, LAN03) y guarda todo en un archivo JSON
 
 ## Tecnologías
-- Java [versión que usas]
+- Java 21
 - Maven
 - Persistencia en archivo JSON
 
